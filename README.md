@@ -115,10 +115,10 @@ http://127.0.0.1:8050/
 
 ```
 ### Sample
-```
-markdown
 
-![Dashb Sample](https://raw.githubusercontent.com/Issimonmutunga/healthcarefacilities_dash/main/sample.png)
+
+![Dash Sample](https://raw.githubusercontent.com/Issimonmutunga/healthcarefacilities_dash/main/sample.png)
+
 
 
 
