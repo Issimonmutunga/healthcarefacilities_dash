@@ -117,7 +117,7 @@ http://127.0.0.1:8050/
 ### Sample
 ```
 
-![Alt text](https://github.com/Issimonmutunga/healthcarefacilities_dash/blob/main/sample.png)
+![Alt text](https://raw.githubusercontent.com/Issimonmutunga/healthcarefacilities_dash/main/sample.png)
 
 
 
