@@ -43,8 +43,9 @@ Copy
 Edit
 python -m venv venv
 venv\Scripts\activate
+```
 macOS/Linux:
-
+```
 bash
 Copy
 Edit
@@ -112,6 +113,11 @@ Then open your browser and navigate to:
 
 http://127.0.0.1:8050/
 
+```
+### Sample
+```
+markdown
+![Healthcare Dashboard Screenshot](screenshot.png)
 
 
 
