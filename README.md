@@ -116,8 +116,9 @@ http://127.0.0.1:8050/
 ```
 ### Sample
 ```
-markdown
-![Healthcare Dashboard Screenshot](screenshot.png)
+![Screenshot 2025-05-25 132149](https://github.com/user-attachments/assets/30b27d93-74ec-4a1d-b036-2ca38e92a8f4)
+
+
 
 
 
