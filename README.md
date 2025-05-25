@@ -118,7 +118,7 @@ http://127.0.0.1:8050/
 ```
 markdown
 
-![Alt text](https://raw.githubusercontent.com/Issimonmutunga/healthcarefacilities_dash/main/sample.png)
+![Dashb Sample](https://raw.githubusercontent.com/Issimonmutunga/healthcarefacilities_dash/main/sample.png)
 
 
 
